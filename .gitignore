@@ -1,0 +1,7 @@
+/.vscode
+/.wwebjs_auth
+/.wwebjs_cache
+/node_modules
+/il.zip
+/nodemon.json
+/package-lock.json
